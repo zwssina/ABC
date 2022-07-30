@@ -1112,7 +1112,7 @@ TLC旅遊 ,p2p://54.39.16.152:9906/62584cd60007230e0f9642af98aa2879
 三立新聞,p2p://54.39.16.152:9906/625411f9000c761609549a782b245a4c
 TVBS新聞,p2p://54.39.16.152:9906/6254121e00022e5c0955285ee55f9ec4
 TVBS 高清,p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
-酒店,#genre#
+酒店源,#genre#
 广东珠江FHD,http://hh0808.hk5a.ml/mzjd/mezh.php?id=0133
 广东公共FHD,http://hh0808.hk5a.ml/mzjd/mezh.php?id=1003
 广东新闻FHD,http://hh0808.hk5a.ml/mzjd/mezh.php?id=1002
