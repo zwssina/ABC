@@ -1097,6 +1097,10 @@ TLC旅遊 ,p2p://54.39.16.152:9906/62584cd60007230e0f9642af98aa2879
 民視新聞,p2p://54.39.16.152:9906/625411d700086db70954149f159813c6
 三立新聞,p2p://54.39.16.152:9906/625411f9000c761609549a782b245a4c
 TVBS新聞,p2p://54.39.16.152:9906/6254121e00022e5c0955285ee55f9ec4
-TVBS 高清,p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
-
-
+TVBS重构，p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
+电视夹,#genre#
+无线新闻,http://live.tvfix.org/hls/inews2.m3u8
+星河粤语,http://live.tvfix.org/hls/tvbxh_v.m3u8
+无线娱乐,http://live.tvfix.org/hls/enews_v.m3u8
+功夫台,http://live.tvfix.org/hls/tvbkf.m3u8
+翡翠台,http://live.tvfix.org/hls/jadehk2.m3u8
