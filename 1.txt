@@ -1098,3 +1098,32 @@ TLC旅遊 ,p2p://54.39.16.152:9906/62584cd60007230e0f9642af98aa2879
 三立新聞,p2p://54.39.16.152:9906/625411f9000c761609549a782b245a4c
 TVBS新聞,p2p://54.39.16.152:9906/6254121e00022e5c0955285ee55f9ec4
 TVBS重构，p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
+测试2,#genre#
+[HK]TVB翡翠,https://ktiptv.asia:443/cn1009/0933890/492383
+[HK]TVB星河,https://ktiptv.asia:443/cn1009/0933890/492384
+[HK]TVB明珠,https://ktiptv.asia:443/cn1009/0933890/492386
+[HK]TVB J1,https://ktiptv.asia:443/cn1009/0933890/492388
+[HK]無線新聞,https://ktiptv.asia:443/cn1009/0933890/492389
+[HK]TVB無線財經,https://ktiptv.asia:443/cn1009/0933890/492390
+[HK]有線新聞,https://ktiptv.asia:443/cn1009/0933890/492391
+[HK]鳳凰衛視,https://ktiptv.asia:443/cn1009/0933890/492398
+[HK]鳳凰資訊,https://ktiptv.asia:443/cn1009/0933890/492399
+[HK]星空衛視,https://ktiptv.asia:443/cn1009/0933890/492400
+[HK]港臺31,https://ktiptv.asia:443/cn1009/0933890/492401
+[HK]港臺32,https://ktiptv.asia:443/cn1009/0933890/492402
+[HK]香港開電視,https://ktiptv.asia:443/cn1009/0933890/492403
+[HK]HKS,https://ktiptv.asia:443/cn1009/0933890/492407
+[HK]澳視澳門,https://ktiptv.asia:443/cn1009/0933890/492408
+[HK]澳視葡語,https://ktiptv.asia:443/cn1009/0933890/492409
+[HK]澳門卫星台,https://ktiptv.asia:443/cn1009/0933890/492410
+[HK]澳門體育,https://ktiptv.asia:443/cn1009/0933890/492411
+[HK]澳門資讯,https://ktiptv.asia:443/cn1009/0933890/492412
+[HK]澳門综艺,https://ktiptv.asia:443/cn1009/0933890/492413
+[HK]耀才财经,https://ktiptv.asia:443/cn1009/0933890/492416
+[HK]陽光衛視,https://ktiptv.asia:443/cn1009/0933890/492423
+[HK]亞旅衛視,https://ktiptv.asia:443/cn1009/0933890/492424
+[HK]新時代東部,https://ktiptv.asia:443/cn1009/0933890/492427
+[HK]新時代西部,https://ktiptv.asia:443/cn1009/0933890/492428
+[HK]新時代亚太,https://ktiptv.asia:443/cn1009/0933890/492429
+[HK]新時代旧金山台,https://ktiptv.asia:443/cn1009/0933890/492430
+[HK] HKC财经资讯台,https://ktiptv.asia:443/cn1009/0933890/512537
