@@ -1135,4 +1135,6 @@ EYE TV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c
 龍華影劇,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
 龍華洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
