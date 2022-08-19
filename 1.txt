@@ -1138,3 +1138,11 @@ EYE TV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+P4P,#genre#
+翡翠臺,p4p://192.99.237.147:2000/5a85b11e0009706c1174248b0c0b4028.ts
+VIU TV,p4p://192.99.237.147:2000/5a85b715000896fd118b71255a4a2b1d.ts
+明珠臺,p4p://192.99.237.147:2000/5a85b6ef00092ac1118adce2651a40e2.ts
+TVB J2,p4p://192.99.237.147:2000/5a85b6de0002cddd118a98e0081f22fb.ts
+無線財經臺,p4p://192.99.237.142:2000/5a85b6c9000332a5118a46ea29fa6b76.ts
+無線新聞臺,p4p://192.99.237.142:2000/5a85b12e0008a4f5117462d342e6211f.ts
+VIU Six,p4p://192.99.237.142:2000/5a85be7b00020fccb51566396b611f8e.ts
