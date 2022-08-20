@@ -471,6 +471,12 @@ imode時尚頻道[1920*1080][1920*1080],https://juyunlive.juyun.tv/live/24950198
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
+南国都市,http://103.213.250.168:889/m3u8.php/GZTV/shenghuo
+广州影视,http://103.213.250.168:889/m3u8.php/GZTV/yingshi
+广州综合,http://103.213.250.168:889/m3u8.php/GZTV/zhonghe
+广州法治,http://103.213.250.168:889/m3u8.php/GZTV/fazhi
+广州竞赛,http://103.213.250.168:889/m3u8.php/GZTV/jingsai
+广州新闻,http://103.213.250.168:889/m3u8.php/GZTV/xinwen
 广东卫视[1024*576],http://61.143.45.150:9901/tsfile/live/0017_1.m3u8
 广东珠江[1024*576],http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 广东新闻[1024*576],http://61.143.45.150:9901/tsfile/live/0019_1.m3u8
