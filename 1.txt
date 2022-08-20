@@ -1138,11 +1138,18 @@ EYE TV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-P4P,#genre#
-翡翠臺,p4p://192.99.237.147:2000/5a85b11e0009706c1174248b0c0b4028.ts
-VIU TV,p4p://192.99.237.147:2000/5a85b715000896fd118b71255a4a2b1d.ts
-明珠臺,p4p://192.99.237.147:2000/5a85b6ef00092ac1118adce2651a40e2.ts
-TVB J2,p4p://192.99.237.147:2000/5a85b6de0002cddd118a98e0081f22fb.ts
-無線財經臺,p4p://192.99.237.142:2000/5a85b6c9000332a5118a46ea29fa6b76.ts
-無線新聞臺,p4p://192.99.237.142:2000/5a85b12e0008a4f5117462d342e6211f.ts
-VIU Six,p4p://192.99.237.142:2000/5a85be7b00020fccb51566396b611f8e.ts
+diyp,#genre#
+凤凰中文,http://diyp-diyp.tk/xyoutube819.php?id=100&p=0&c=3
+凤凰资讯,http://diyp-diyp.tk/xyoutube819.php?id=99&p=0&c=3
+香港卫视,http://diyp-diyp.tk/xyoutube819.php?id=93&p=0&c=3
+中天新闻,http://diyp-diyp.tk/xyoutube819.php?id=42&p=0&c=3
+民视新闻,http://diyp-diyp.tk/xyoutube819.php?id=5&p=0&c=3
+翡翠台,http://diyp-diyp.tk/xyoutube819.php?id=78&p=0&c=3
+J2,http://diyp-diyp.tk/xyoutube819.php?id=74&p=0&c=3
+无线新闻,http://diyp-diyp.tk/xyoutube819.php?id=73&p=0&c=3
+澳门莲花,http://diyp-diyp.tk/xyoutube819.php?id=88&p=0&c=3
+澳视澳门,http://diyp-diyp.tk/xyoutube819.php?id=51&p=0&c=3
+美亚电影,http://diyp-diyp.tk/xyoutube819.php?id=89&p=0&c=3
+纬来电影,http://diyp-diyp.tk/xyoutube819.php?id=9&p=0&c=3
+纬来日本,http://diyp-diyp.tk/xyoutube819.php?id=10&p=0&c=3
+纬来综合,http://diyp-diyp.tk/xyoutube819.php?id=12&p=0&c=3
