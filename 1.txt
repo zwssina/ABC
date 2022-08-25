@@ -534,6 +534,12 @@ GRTN文化频道,http://daviku.wicp.net:80/m3u8.php?/iTouchTV/2511
 广东影视,http://fangsong.live/hls/itouchtv.php?id=gdys
 广东经济,http://fangsong.live/hls/itouchtv.php?id=gdjj
 广东新闻,http://fangsong.live/hls/itouchtv.php?id=gdxw
+广东体育,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdty
+广东公共,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdgg
+广东新闻,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdxw
+广东影视,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdys
+广东少儿,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdse
+广东综艺,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdzy
 港台IPTV,#genre#
 动物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 动物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
