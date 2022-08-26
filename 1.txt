@@ -911,8 +911,12 @@ ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
 广州竞赛,http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
 南国都市,http://ct.whosayssowhat.top:4022/udp/239.253.43.99:5146
 港台测试,#genre#
-[BD]翡翠,https://epg.pm/stream/1ccee0213028272c820d67b441598f349c945be6f164fb3036a233abd73c8d5a.m3u8
-[BD]翡翠@@2,https://epg.pm/stream/32f31a499305d9ed80ff47259d52e0d451ec43e2d828731832a77701eeb332e4.m3u8
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+翡翠华丽,http://23.237.10.66:16410
+无线新闻,http://23.237.10.66:16110
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 TVB翡翠HD,https://cdn.hklive.tv/xxxx/81/index.m3u8
 TVB J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
 TVB無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
