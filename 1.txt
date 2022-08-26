@@ -1231,3 +1231,4 @@ Star World,http://daviku.wicp.net/mk/mk270.php?id=live1040
 博斯運動1,http://daviku.wicp.net/mk/mk270.php?id=live1225
 ELEVEN SPORTS 1 ,http://daviku.wicp.net/mk/mk270.php?id=live1069
 ELEVEN SPORTS 2 ,http://daviku.wicp.net/mk/mk270.php?id=live1072
+无线新闻HD,http://daviku.wicp.net/iptv/tvb.php?id=0
