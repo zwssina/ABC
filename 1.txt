@@ -783,67 +783,53 @@ Migutv-7套武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 SNH48剧场公演,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
 综艺现场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640581
 最强综艺趴,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629942228
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225965/index.m3u8?
-咪咕视频 2,http://39.135.46.243:6610/PLTV/77777777/224/3221225962/index.m3u8?
-咪咕视频 3,http://39.135.46.243:6610/PLTV/77777777/224/3221225959/index.m3u8?
-咪咕视频 4,http://39.135.46.243:6610/PLTV/77777777/224/3221225935/index.m3u8?
-咪咕视频 5,http://39.135.46.243:6610/PLTV/77777777/224/3221225906/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225876/index.m3u8?
-咪咕视频 7,http://39.135.46.243:6610/PLTV/77777777/224/3221225920/index.m3u8?
-咪咕视频 8,http://39.135.46.243:6610/PLTV/77777777/224/3221225917/index.m3u8?
-咪咕视频 9,http://39.135.46.243:6610/PLTV/77777777/224/3221225914/index.m3u8?
-咪咕视频 10,http://39.135.46.243:6610/PLTV/77777777/224/3221225911/index.m3u8?
-咪咕视频 11,http://39.135.46.243:6610/PLTV/77777777/224/3221225908/index.m3u8?
-咪咕视频 12,http://39.135.46.243:6610/PLTV/77777777/224/3221225905/index.m3u8?
-咪咕视频 13,http://39.135.46.243:6610/PLTV/77777777/224/3221225902/index.m3u8?
-咪咕视频 14,http://39.135.46.243:6610/PLTV/77777777/224/3221225899/index.m3u8?
-咪咕视频 15,http://39.135.46.243:6610/PLTV/77777777/224/3221225896/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225893/index.m3u8?
-咪咕视频 17,http://39.135.46.243:6610/PLTV/77777777/224/3221225871/index.m3u8?
-咪咕视频 18,http://39.135.46.243:6610/PLTV/77777777/224/3221225868/index.m3u8?
-咪咕视频 19,http://39.135.46.243:6610/PLTV/77777777/224/3221225865/index.m3u8?
-咪咕视频 20,http://39.135.46.243:6610/PLTV/77777777/224/3221225862/index.m3u8?
-咪咕视频 21,http://39.135.46.243:6610/PLTV/77777777/224/3221225861/index.m3u8?
-法甲1,http://39.135.46.243:6610/PLTV/77777777/224/3221225860/index.m3u8?
-咪咕视频 23,http://39.135.46.243:6610/PLTV/77777777/224/3221225859/index.m3u8?
-咪咕视频 24,http://39.135.46.243:6610/PLTV/77777777/224/3221225858/index.m3u8?
-咪咕视频 25,http://39.135.46.243:6610/PLTV/77777777/224/3221225857/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225856/index.m3u8?
-咪咕视频 27,http://39.135.46.243:6610/PLTV/77777777/224/3221225855/index.m3u8?
-法甲,http://39.135.46.243:6610/PLTV/77777777/224/3221225854/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225853/index.m3u8?
-咪咕视频 4M1080,http://39.135.46.243:6610/PLTV/77777777/224/3221225852/index.m3u8?
-咪咕视频 30,http://39.135.46.243:6610/PLTV/77777777/224/3221225851/index.m3u8?
-咪咕视频 31,http://39.135.46.243:6610/PLTV/77777777/224/3221225849/index.m3u8?
-咪咕视频 32,http://39.135.46.243:6610/PLTV/77777777/224/3221225848/index.m3u8?
-咪咕视频 33,http://39.135.46.243:6610/PLTV/77777777/224/3221225846/index.m3u8?
-德甲,http://39.135.46.243:6610/PLTV/77777777/224/3221225845/index.m3u8?
-咪咕视频 35,http://39.135.46.243:6610/PLTV/77777777/224/3221225843/index.m3u8?
-咪咕视频 36,http://39.135.46.243:6610/PLTV/77777777/224/3221225842/index.m3u8?
-咪咕视频 37,http://39.135.46.243:6610/PLTV/77777777/224/3221225840/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225839/index.m3u8?
-咪咕视频 39,http://39.135.46.243:6610/PLTV/77777777/224/3221225837/index.m3u8?
-咪咕视频 40,http://39.135.46.243:6610/PLTV/77777777/224/3221225834/index.m3u8?
-意甲,http://39.135.46.243:6610/PLTV/77777777/224/3221225820/index.m3u8?
-咪咕视频 42,http://39.135.46.243:6610/PLTV/77777777/224/3221225817/index.m3u8?
-西甲,http://39.135.46.243:6610/PLTV/77777777/224/3221225814/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225811/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225808/index.m3u8?
-咪咕视频 46,http://39.135.46.243:6610/PLTV/77777777/224/3221225805/index.m3u8?
-咪咕视频 49,http://39.135.46.243:6610/PLTV/77777777/224/3221225802/index.m3u8?
-咪咕视频 47,http://39.135.46.243:6610/PLTV/77777777/224/3221225799/index.m3u8?
-咪咕视频 48,http://39.135.46.243:6610/PLTV/77777777/224/3221225796/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225793/index.m3u8?
-咪咕视频 51,http://39.135.46.243:6610/PLTV/77777777/224/3221225792/index.m3u8?
-咪咕视频 52,http://39.135.46.243:6610/PLTV/77777777/224/3221225789/index.m3u8?
-咪咕视频 53,http://39.135.46.243:6610/PLTV/77777777/224/3221225786/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225783/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225780/index.m3u8?
-英超,http://39.135.46.243:6610/PLTV/77777777/224/3221225777/index.m3u8?
-咪咕视频 57,http://39.135.46.243:6610/PLTV/77777777/224/3221225774/index.m3u8?
-咪咕视频 58,http://39.135.46.243:6610/PLTV/77777777/224/3221225771/index.m3u8?
-咪咕视频 59,http://39.135.46.243:6610/PLTV/77777777/224/3221225769/index.m3u8?
-咪咕视频 60,http://39.135.46.243:6610/PLTV/77777777/224/3221225654/index.m3u8?
+咪咕体育1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233041/index.m3u8
+咪咕体育2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233058/index.m3u8
+咪咕体育3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233067/index.m3u8
+咪咕体育4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233070/index.m3u8
+咪咕体育5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233083/index.m3u8
+咪咕体育6,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233092/index.m3u8
+咪咕体育7,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233097/index.m3u8
+咪咕体育8,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233104/index.m3u8
+咪咕体育9,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233136/index.m3u8
+咪咕体育10,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233154/index.m3u8
+咪咕体育11,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233332/index.m3u8
+咪咕体育12,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233335/index.m3u8
+咪咕体育13,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233359/index.m3u8
+咪咕体育14,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233362/index.m3u8
+咪咕体育15,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233365/index.m3u8
+咪咕体育16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233368/index.m3u8
+咪咕体育17,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233379/index.m3u8
+咪咕体育18,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233382/index.m3u8
+咪咕体育19,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233412/index.m3u8
+咪咕体育20,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233415/index.m3u8
+咪咕体育21,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233418/index.m3u8
+咪咕体育22,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233425/index.m3u8
+咪咕体育23,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233428/index.m3u8
+咪咕体育24,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233437/index.m3u8
+咪咕体育25,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233443/index.m3u8
+咪咕体育26,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233472/index.m3u8
+咪咕体育27,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233484/index.m3u8
+咪咕体育28,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233500/index.m3u8
+咪咕体育29,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233506/index.m3u8
+咪咕体育30,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233509/index.m3u8
+咪咕体育31,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233511/index.m3u8
+咪咕体育32,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233514/index.m3u8
+咪咕体育33,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233512/index.m3u8
+咪咕体育34,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233517/index.m3u8
+咪咕体育35,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233520/index.m3u8
+咪咕体育36,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233527/index.m3u8
+咪咕体育37,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233535/index.m3u8
+咪咕体育38,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233541/index.m3u8
+咪咕体育39,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233764/index.m3u8
+咪咕体育40,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233769/index.m3u8
+咪咕体育41,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233776/index.m3u8
+咪咕体育42,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233788/index.m3u8
+咪咕体育43,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233791/index.m3u8
+咪咕体育44,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233793/index.m3u8
+咪咕体育45,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233796/index.m3u8
+咪咕体育46,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233823/index.m3u8
+咪咕体育47,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233829/index.m3u8
 埋堆堆,#genre#
 TVB-把关者们,https://wabc.ml/huya.php?id=23903152
 TVB-七公主,https://wabc.ml/huya.php?id=23860049
