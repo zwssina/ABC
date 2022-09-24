@@ -534,6 +534,7 @@ GRTN文化频道,http://daviku.wicp.net:80/m3u8.php?/iTouchTV/2511
 广东影视,http://fangsong.live/hls/itouchtv.php?id=gdys
 广东经济,http://fangsong.live/hls/itouchtv.php?id=gdjj
 广东新闻,http://fangsong.live/hls/itouchtv.php?id=gdxw
+珠江,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdzj
 广东体育,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdty
 广东公共,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdgg
 广东新闻,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=gdxw
