@@ -923,8 +923,6 @@ ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
 岭南戏曲,http://cindy520.f3322.net:5146/udp/239.77.0.16:5146
 港台测试,#genre#
 翡翠台,https://t6.iptv200.com/live/tvb/index.m3u8?session=xc1ovbk1yogn7i9ysxsfvh8ehigujbh0
-J2,https://t12.iptv200.com/live/j2/index.m3u8?session=nx5dv9jqows72p6ve6n7wpudtieqgoc8
-viutv,https://t15.iptv200.com/live/viutv/index.m3u8?session=qi1btikbreev2pqqfuphqea724hiwk93
 无线新闻,https://t15.iptv200.com/live/inews/index.m3u8?session=fy1w586j78rm1t9bk289nz4w9v4cirn0
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
@@ -939,7 +937,6 @@ TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
 TVB無綫財經,https://cdn.hklive.tv/xxxx/85/index.m3u8
 香港开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8
 VIU,https://cdn.hklive.tv/xxxx/96/index.m3u8
-翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
