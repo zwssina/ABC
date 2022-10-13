@@ -922,6 +922,10 @@ ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
 广东移动,http://cindy520.f3322.net:5146/udp/239.77.0.20:5146
 岭南戏曲,http://cindy520.f3322.net:5146/udp/239.77.0.16:5146
 港台测试,#genre#
+翡翠台,https://t6.iptv200.com/live/tvb/ ... i9ysxsfvh8ehigujbh0
+J2,https://t12.iptv200.com/live/j2/ ... p6ve6n7wpudtieqgoc8
+viutv,https://t15.iptv200.com/live/viu ... pqqfuphqea724hiwk93
+无线新闻,https://t15.iptv200.com/live/ine ... t9bk289nz4w9v4cirn0
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 翡翠华丽,http://23.237.10.66:16410
