@@ -1157,6 +1157,9 @@ rhk32,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c1CcLh0qMMGmCf0_nRXr-xg/m3
 rhk31,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9b-1wWVGG6a13LqcszTrf8/m3u8
 弯弯,#genre#
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+inew,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 國家地理臺灣,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
