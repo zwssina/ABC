@@ -1294,6 +1294,36 @@ TVB经典,http://wabc.ga/nm.php?id=7312a62c-b0e9-4134-b262-438963165702#http://w
 TVB明珠,http://wabc.ga/nm.php?id=ac6803d0-ef17-4454-aaef-bb8221de43ff#http://wabc.ga/nm.php?id=e23f6359-99ea-43ad-8bd3-41dbf3ed4b20
 TVB星河(國),http://wabc.ga/nm.php?id=23602031-b648-4230-8246-17e0bf3ee3a7
 TVB星河(粵),http://wabc.ga/nm.php?id=4a5b6deb-4f68-4ed6-aa72-50299e6ed5f4#http://wabc.ga/nm.php?id=09248387-fa48-493b-898d-077ca91fa7c1
+無線財經,http://wabc.ga/nm.php?id=e9789691-2c43-4ab7-9acc-ea5655673352
+無線新聞,http://wabc.ga/nm.php?id=97af0048-2628-4afe-ac5c-8bcf7b44e2cb#http://wabc.ga/nm.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
+無線娛樂,http://wabc.ga/nm.php?id=88e968ae-cd43-4b8f-95c3-592a5e04f0de#http://wabc.ga/nm.php?id=b754e32b-f271-413d-88f7-2fd7b5d87912
+小太阳,http://wabc.ga/nm.php?id=d1627727-4b5b-4543-bf34-6d0d65259da9#http://wabc.ga/nm.php?id=74c0bc55-c11a-42b8-b3fd-30d51e25c3c8
+星卫电影,http://wabc.ga/nm.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
+中天新聞,http://wabc.ga/nm.php?id=9ece40f1-712e-43c8-9639-018c38d088ba
+天映频道,http://wabc.ga/nm.php?id=f451021a-e45f-4088-8c53-913c7945209a#http://wabc.ga/nm.php?id=5b9f7e76-2fd9-47b4-8b69-c3f2ea4ac6e4#http://wabc.ga/nm.php?id=9af768bf-1ed8-4074-ab8b-39f5aeccdc66
+卫视中文台,http://wabc.ga/nm.php?id=9fe66560-c33e-48c0-bb37-e8d5e2f75997#http://wabc.ga/nm.php?id=29f7f15f-884d-4f0c-8693-2db050f60195
+天映经典,http://wabc.ga/nm.php?id=8e706866-1fce-4ac8-94d8-b7b8ca13278f#http://wabc.ga/nm.php?id=0ffb0c24-0168-4d55-a61d-a76b94724bf9
+韓國娛樂,http://wabc.ga/nm.php?id=443ff7b2-7c2f-41a0-9d78-4b70ea700hls
+好萊塢电影,http://wabc.ga/nm.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
+寰宇台湾台,http://wabc.ga/nm.php?id=3b612a7f-1eb6-4963-8d6c-dbbe638ecb6d
+寰宇综合台,http://wabc.ga/nm.php?id=b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5
+凤凰香港,http://wabc.ga/nm.php?id=491989a5-24ef-439c-b242-7b2fecabb0a7#http://wabc.ga/nm.php?id=736db1a2-45fc-4831-a7df-e637c5ee12fb
+凤凰中文,http://wabc.ga/nm.php?id=31eb3271-26dc-49db-a4e4-a9cb73b7611b#http://wabc.ga/nm.php?id=2c0a3717-940f-42c5-b347-2419f40af84f
+凤凰资讯,http://wabc.ga/nm.php?id=6885e715-f571-4397-ae38-6bdad7828176#http://wabc.ga/nm.php?id=fc13bef2-bfc9-4896-bd46-47902a324d21
+AEC HD,http://wabc.ga/nm.php?id=4a9a0442-f7c8-4eda-8245-379c09735086#http://wabc.ga/nm.php?id=17293160-c1bb-4ec4-ae0b-5dbc7f03f348#http://wabc.ga/nm.php?id=469b5f91-424e-4b7e-bc06-8a0921a42e60#http://wabc.ga/nm.php?id=469b5f91-424e-4b7e-bc06-8a0921a42ets
+AOD HD,http://wabc.ga/nm.php?id=4e402bba-d563-4f5a-8c48-75ea8bd8a44a#http://wabc.ga/nm.php?id=ae2b04c0-1421-4cf9-b754-69390c21eb44
+AOD352,http://wabc.ga/nm.php?id=9b27e3cd-154b-4d9b-b988-c76b685c8277#http://wabc.ga/nm.php?id=c44fea1e-1355-453f-9124-faa2f6130089
+AOD353,http://wabc.ga/nm.php?id=5e6a673a-be46-47be-a8a0-5e171b1fe2a7#http://wabc.ga/nm.php?id=064db42f-eea5-4e8d-8d41-0505659bb91f
+AOD354,http://wabc.ga/nm.php?id=56f7eb08-cd85-4361-8f7f-3d730ae149f0#http://wabc.ga/nm.php?id=5f2834b0-0048-41df-afb8-386e13ac9acd
+AOD355,http://wabc.ga/nm.php?id=6aae1742-339b-472b-bec7-71e1ac203747#http://wabc.ga/nm.php?id=8c9af917-95c7-4f10-bf50-84d8771af1e6
+Arena2HD,http://wabc.ga/nm.php?id=355956a4-538e-4b8c-a5ae-67411ef556d5#http://wabc.ga/nm.php?id=239fd7d9-180a-4827-8a79-7b6dfa2d1c34
+ArenaHD,http://wabc.ga/nm.php?id=3ba16812-77c7-4194-9329-a95fda644f53#http://wabc.ga/nm.php?id=230bd038-419a-427a-bafc-92cd83587311
+爱奇艺HD,http://wabc.ga/nm.php?id=488e9468-baa3-418b-809d-728a0efe3cdf#http://wabc.ga/nm.php?id=ed346c3d-302e-4cb5-9155-e0bd94bba0e8#http://wabc.ga/nm.php?id=aef85fba-347c-42d4-aafc-171e1ef9172e
+华丽 HD,http://wabc.ga/nm.php?id=096a3e20-c1da-4d61-8de5-361a8f3f981d#http://wabc.ga/nm.php?id=6c52fe3d-4596-45c5-a114-40e554713ee2#http://wabc.ga/nm.php?id=2a312df7-648e-4167-b6db-a5f0f0802fts#http://wabc.ga/nm.php?id=2a312df7-648e-4167-b6db-a5f0f0802f7e
+華視 HD,http://wabc.ga/nm.php?id=9e556711-5918-49ec-bdc9-1837e9f4bc48
+欢喜 HD,http://cdn.sgpmovie.com/live/3086af1d-d0cd-403c-ac08-ee4ac96ef9de#http://wabc.ga/nm.php?id=79558d06-4748-4daa-8939-3d148f759e71#http://wabc.ga/nm.php?id=c5e2f931-28f7-4908-b8ce-1142ed55c30b#http://wabc.ga/nm.php?id=3086af1d-d0cd-403c-ac08-ee4ac96ef9de
+雙星 HD,http://wabc.ga/nm.php?id=0cb34b1e-9434-4b6a-a047-bdc87c5008bf#http://wabc.ga/nm.php?id=6ffebc04-382a-4b8d-9fd4-82085417ed58
+全佳 HD,http://wabc.ga/nm.php?id=5c6264d6-fe7d-42c8-983c-46eaa40185d3#http://wabc.ga/nm.php?id=9c506e23-4cc4-4954-ae9b-9e358a79b18a#http://wabc.ga/nm.php?id=578f44bd-b8a7-4b8b-9339-4c09ae7930ts#http://wabc.ga/nm.php?id=578f44bd-b8a7-4b8b-9339-4c09ae7930a9
 体育咪咕新,#genre#
 英超1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
