@@ -1287,28 +1287,13 @@ Now Sports 英超,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnkr3MEtJ2W
 中天新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgngRLcPtM6l2gqdX3D5nbXKE/m3u8
 东森新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnmGM2YorhW2BSw6dwQGn57E/m3u8
 寰宇新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnkkd8OeD3BLdZsnabiOKZuk/m3u8
-弯弯代理,#genre#
-千禧经典台[1280*720],http://206.221.176.47:64002
-SKY SPROTS[1280*720],http://206.221.176.47:64003
-CCTV－9[1920*1080],http://206.221.176.47:64004
-香港開电视[1280*720],http://206.221.176.47:64007
-有线体育[1280*720],http://206.221.176.47:64017
-彩条[1920*1080],http://206.221.176.47:64018
-娱乐新闻台[1280*720],http://206.221.176.47:64019
-TVB星河[1280*720],http://206.221.176.47:64020
-有线电影台[1280*720],http://206.221.176.47:64021
-mediaco[1920*1080],http://206.221.176.47:64022
-ELTA娱乐[1280*720],http://206.221.176.47:64024
-CCTV5[1920*1080],http://206.221.176.47:64026
-CCTV5+[1920*1080],http://206.221.176.47:64027
-湖南卫视[1280*720],http://206.221.176.47:64028
-四川卫视[1280*720],http://206.221.176.47:64029
-VIU动画[1920*1080],http://206.221.176.47:64030
-卫视中文台[1280*720],http://206.221.176.47:64033
-五星体育[1280*720],http://206.221.176.47:64034
-ASTRO SUPERSPORT4[1920*1080],http://206.221.176.47:64035
-ASTRO warna [1920*1080],http://206.221.176.47:64036
-中天综合[1920*1080],http://206.221.176.47:64032
+柠檬代理,#genre#
+TVB J2,http://wabc.ga/nm.php?id=f1279338-cb12-4c49-aa1c-542c27f1a3dc#http://wabc.ga/nm.php?id=a678c957-ef44-4c5d-a2d9-99003bab05d5
+TVB翡翠,http://wabc.ga/nm.php?id=39056c5e-7f5d-4824-864a-37fa274bfc3c#http://wabc.ga/nm.php?id=abb95d54-2d81-4b14-b27b-39d2f004945b#http://wabc.ga/nm.php?id=d3a5dbaa-db39-4023-b9a5-ec7d0ff0830a
+TVB经典,http://wabc.ga/nm.php?id=7312a62c-b0e9-4134-b262-438963165702#http://wabc.ga/nm.php?id=519d0628-c56d-47af-a860-b764a411bd91
+TVB明珠,http://wabc.ga/nm.php?id=ac6803d0-ef17-4454-aaef-bb8221de43ff#http://wabc.ga/nm.php?id=e23f6359-99ea-43ad-8bd3-41dbf3ed4b20
+TVB星河(國),http://wabc.ga/nm.php?id=23602031-b648-4230-8246-17e0bf3ee3a7
+TVB星河(粵),http://wabc.ga/nm.php?id=4a5b6deb-4f68-4ed6-aa72-50299e6ed5f4#http://wabc.ga/nm.php?id=09248387-fa48-493b-898d-077ca91fa7c1
 体育咪咕新,#genre#
 英超1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
