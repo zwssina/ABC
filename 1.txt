@@ -1225,68 +1225,68 @@ J2,http://diyp-diyp.tk/xyoutube819.php?id=74&p=0&c=3
 纬来日本,http://diyp-diyp.tk/xyoutube819.php?id=10&p=0&c=3
 纬来综合,http://diyp-diyp.tk/xyoutube819.php?id=12&p=0&c=3
 hstv,#genre#
-翡翠台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnpvNkGHagBCL9yhAZuDA01E/m3u8
-明珠台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnoJdOu73-78WjAb2R79ZiLQ/m3u8
-无线新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnpL4EGIOY8vRLbCiFBPi1os/m3u8
-有线新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgntVRxXvWi0Buu1XhVxycKa0/m3u8
-NOW新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnknm8hqkXxLFiem1FJNmKOE/m3u8
-Viutv,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnkbbBc_dz1gqoHVW-ddvZo8/m3u8
-Viutv 6,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgng2EqrTCytsysTBqez3mKb0/m3u8
-无线财经体育资讯台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnntHc2Fw5hJGIukoRJW5lP8/m3u8
-有线财经,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnnDg9ihhHIsGGuAVjRIGz2E/m3u8
-J 2,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnohCgcqoU6KrwefXEncMx80/m3u8
-Super 18,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnpLfjmTVhmGOYhVin4QX4yE/m3u8
-有线603,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnodzBGMKFGzbwsYlIdpY6Hw/m3u8
-有线18台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnjVBQu5pefdkKCoKObWrNJs/m3u8
-有线体育,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnm9IXX2QO8buy5p1P1so3aA/m3u8
-港台31,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnka8UxU3AF3S7333qWPuUVg/m3u8
-港台32,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnn00JZC5YXh0CWuT5ogy91k/m3u8
-开电视,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnsChpux4TL33RRH5cpP4b1c/m3u8
-华丽台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnupbq9SxsKCfLwGY8cpwH2w/m3u8
-有线603,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnnPg-wC8lIlVg9AFHi_pMws/m3u8
-有线电影,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnoBCZl8Iw8W49gtzBHHHUNY/m3u8
-有线综合娱乐,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnqmJRHpMf-JNg-uJdgQYGdo/m3u8
-有线财经台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnhnVFU_pxoIm01XMR1aitns/m3u8
-有线直播,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgng6EwjQE1sOT9YrMVktsfKI/m3u8
-TVB经典台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnog6iWJ1ZVOa1Ad7_6MjWRM/m3u8
-TVB 星河,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnjTxxdnL8b0OiX4yoj5uX-8/m3u8
-天映频道,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgngc0BlXnbb8h1INOcRmrk40/m3u8
-星卫电影台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgngzbOPIA4rUanZ4liOxQFyI/m3u8
-TW-美亚电影,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnrFSCBofpG2b9sP5tYY0vII/m3u8
-HK-美亚电影“粤”,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgngXi1bO9VN7486uon6xF-5A/m3u8
-HK美亚电影“普”,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnrWJQrhEJW_kkw-JkIXdhik/m3u8
-TVB亚洲剧台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnrTaO3DiDhr33hH2s_F3LmQ/m3u8
-TVB 千禧經典台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnmzOxzx1Nn0oehtuMCuw02k/m3u8
-TVB功夫,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnvUyIYt8M_vBy9m8nB87rtM/m3u8
-TVB 粤语片台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnt_z4V757onBPwyU20wlteQ/m3u8
-TVB 华语剧台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnhKYCzSzBX5EJi2wR08kyAY/m3u8
-TVB 娱乐新闻台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnq61JsMdbJVIPokd8qIYLgk/m3u8
-TVB 星河,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnmwBlGWVCMQ-MvXwLSmay20/
-爆谷台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnk993aNKtF2yJuLec6jVg5I/m3u8
-Now星影台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnsEku2cJGqJAsACwVtnrFKc/m3u8
-Now爆谷台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnlAsfGNoVS-lXMN-r_XTi1w/m3u8
-Now财经台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnn-BKf2tYxg6ZeIx_vd2Rn0/m3u8
-Now直播台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnu-peFBV-7B9L4LitIZpRzY/m3u8
-Now剧集台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnsPZbswKTVzBma4Iteq3G8M/m3u8
-Now华剧台,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnhod3VeC12FUT7mGf6o1Td4/m3u8
-NowJelli紫金,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnrNbaZGElikyw4VArZVykJU/m3u8
-NowHBO Hits,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnrnEkKZjmVTVaGcBT0Ejii0/m3u8
-NowHBO Signature,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnlaKsIQV4HFBxvYyv23V_ac/m3u8
-Now TV HBO,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnlPazZGzJJum314_mDcMtXc/m3u8
-NowSports 1,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnrs6T3ik2Me3k2sShTuXUEY/m3u8
-NowSports 2,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnvbuEotKc59jP2ryi5XE9eY/m3u8
-NowSports 3,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnv8PCfa20pL8bqYEUIwLXRY/m3u8
-NowSports 4,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgntmO7w7KZAYwplJ8YrvaVeY/m3u8
-NowSports 5,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnmhvZHSdRs9GbrpSnuiQ_kw/m3u8
-NowSports 6,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnnevF9ZXWJFlemYKABm8jSU/m3u8
-NowSports 7,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnmEXryMw_0wo0tdHk_ND6-A/m3u8
-Now Sports 英超,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnkr3MEtJ2WZvAkW42-BMyfQ/m3u8
-国家地理,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnhTtYfLrxb4SEyyn9529TZg/m3u8
-国家地理野生,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnv-nkbjXelRDTFonQuRlFjU/m3u8
-动物星球,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnobXTB1h2CEZklpnT_YN7Us/m3u8
-中天新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgngRLcPtM6l2gqdX3D5nbXKE/m3u8
-东森新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387XgnmGM2YorhW2BSw6dwQGn57E/m3u8
-寰宇新闻,http://hstv.tiempos.pro:80/play/vRn2JNiW1uQpDQG387Xgnkkd8OeD3BLdZsnabiOKZuk/m3u8
+翡翠台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnpvNkGHagBCL9yhAZuDA01E/m3u8
+明珠台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnoJdOu73-78WjAb2R79ZiLQ/m3u8
+无线新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnpL4EGIOY8vRLbCiFBPi1os/m3u8
+有线新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgntVRxXvWi0Buu1XhVxycKa0/m3u8
+NOW新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnknm8hqkXxLFiem1FJNmKOE/m3u8
+Viutv,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnkbbBc_dz1gqoHVW-ddvZo8/m3u8
+Viutv 6,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgng2EqrTCytsysTBqez3mKb0/m3u8
+无线财经体育资讯台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnntHc2Fw5hJGIukoRJW5lP8/m3u8
+有线财经,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnnDg9ihhHIsGGuAVjRIGz2E/m3u8
+J 2,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnohCgcqoU6KrwefXEncMx80/m3u8
+Super 18,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnpLfjmTVhmGOYhVin4QX4yE/m3u8
+有线603,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnodzBGMKFGzbwsYlIdpY6Hw/m3u8
+有线18台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnjVBQu5pefdkKCoKObWrNJs/m3u8
+有线体育,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnm9IXX2QO8buy5p1P1so3aA/m3u8
+港台31,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnka8UxU3AF3S7333qWPuUVg/m3u8
+港台32,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnn00JZC5YXh0CWuT5ogy91k/m3u8
+开电视,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnsChpux4TL33RRH5cpP4b1c/m3u8
+华丽台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnupbq9SxsKCfLwGY8cpwH2w/m3u8
+有线603,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnnPg-wC8lIlVg9AFHi_pMws/m3u8
+有线电影,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnoBCZl8Iw8W49gtzBHHHUNY/m3u8
+有线综合娱乐,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnqmJRHpMf-JNg-uJdgQYGdo/m3u8
+有线财经台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnhnVFU_pxoIm01XMR1aitns/m3u8
+有线直播,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgng6EwjQE1sOT9YrMVktsfKI/m3u8
+TVB经典台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnog6iWJ1ZVOa1Ad7_6MjWRM/m3u8
+TVB 星河,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnjTxxdnL8b0OiX4yoj5uX-8/m3u8
+天映频道,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgngc0BlXnbb8h1INOcRmrk40/m3u8
+星卫电影台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgngzbOPIA4rUanZ4liOxQFyI/m3u8
+TW-美亚电影,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrFSCBofpG2b9sP5tYY0vII/m3u8
+HK-美亚电影“粤”,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgngXi1bO9VN7486uon6xF-5A/m3u8
+HK美亚电影“普”,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrWJQrhEJW_kkw-JkIXdhik/m3u8
+TVB亚洲剧台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrTaO3DiDhr33hH2s_F3LmQ/m3u8
+TVB 千禧經典台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmzOxzx1Nn0oehtuMCuw02k/m3u8
+TVB功夫,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnvUyIYt8M_vBy9m8nB87rtM/m3u8
+TVB 粤语片台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnt_z4V757onBPwyU20wlteQ/m3u8
+TVB 华语剧台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnhKYCzSzBX5EJi2wR08kyAY/m3u8
+TVB 娱乐新闻台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnq61JsMdbJVIPokd8qIYLgk/m3u8
+TVB 星河,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmwBlGWVCMQ-MvXwLSmay20/
+爆谷台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnk993aNKtF2yJuLec6jVg5I/m3u8
+Now星影台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnsEku2cJGqJAsACwVtnrFKc/m3u8
+Now爆谷台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnlAsfGNoVS-lXMN-r_XTi1w/m3u8
+Now财经台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnn-BKf2tYxg6ZeIx_vd2Rn0/m3u8
+Now直播台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnu-peFBV-7B9L4LitIZpRzY/m3u8
+Now剧集台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnsPZbswKTVzBma4Iteq3G8M/m3u8
+Now华剧台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnhod3VeC12FUT7mGf6o1Td4/m3u8
+NowJelli紫金,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrNbaZGElikyw4VArZVykJU/m3u8
+NowHBO Hits,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrnEkKZjmVTVaGcBT0Ejii0/m3u8
+NowHBO Signature,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnlaKsIQV4HFBxvYyv23V_ac/m3u8
+Now TV HBO,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnlPazZGzJJum314_mDcMtXc/m3u8
+NowSports 1,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnrs6T3ik2Me3k2sShTuXUEY/m3u8
+NowSports 2,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnvbuEotKc59jP2ryi5XE9eY/m3u8
+NowSports 3,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnv8PCfa20pL8bqYEUIwLXRY/m3u8
+NowSports 4,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgntmO7w7KZAYwplJ8YrvaVeY/m3u8
+NowSports 5,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmhvZHSdRs9GbrpSnuiQ_kw/m3u8
+NowSports 6,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnnevF9ZXWJFlemYKABm8jSU/m3u8
+NowSports 7,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmEXryMw_0wo0tdHk_ND6-A/m3u8
+Now Sports 英超,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnkr3MEtJ2WZvAkW42-BMyfQ/m3u8
+国家地理,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnhTtYfLrxb4SEyyn9529TZg/m3u8
+国家地理野生,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnv-nkbjXelRDTFonQuRlFjU/m3u8
+动物星球,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnobXTB1h2CEZklpnT_YN7Us/m3u8
+中天新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgngRLcPtM6l2gqdX3D5nbXKE/m3u8
+东森新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmGM2YorhW2BSw6dwQGn57E/m3u8
+寰宇新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnkkd8OeD3BLdZsnabiOKZuk/m3u8
 柠檬代理,#genre#
 TVB J2,http://wabc.ga/nm.php?id=f1279338-cb12-4c49-aa1c-542c27f1a3dc#http://wabc.ga/nm.php?id=a678c957-ef44-4c5d-a2d9-99003bab05d5
 TVB翡翠,http://wabc.ga/nm.php?id=39056c5e-7f5d-4824-864a-37fa274bfc3c#http://wabc.ga/nm.php?id=abb95d54-2d81-4b14-b27b-39d2f004945b#http://wabc.ga/nm.php?id=d3a5dbaa-db39-4023-b9a5-ec7d0ff0830a
