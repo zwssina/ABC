@@ -514,6 +514,10 @@ imode時尚頻道[1920*1080][1920*1080],https://juyunlive.juyun.tv/live/24950198
 广东影视,http://mmitv.top/pltv/itouchtv.php?id=gdys
 广东经济,http://mmitv.top/pltv/itouchtv.php?id=gdjj
 广东新闻,http://mmitv.top/pltv/itouchtv.php?id=gdxw
+南方卫视,http://mmitv.top/pltv/itouchtv.php?id=nfws
+广东移动,http://mmitv.top/pltv/itouchtv.php?id=gdyd
+岭南戏曲,http://mmitv.top/pltv/itouchtv.php?id=lnxq
+广东国际,http://mmitv.top/pltv/itouchtv.php?id=gdgj
 广东珠江,http://fangsong.live/hls/itouchtv.php?id=gdzj
 广东公共,http://fangsong.live/hls/itouchtv.php?id=gdgg
 广东综艺,http://fangsong.live/hls/itouchtv.php?id=gdzy
