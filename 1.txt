@@ -1104,7 +1104,7 @@ CCTV16,http://39.134.65.181:80/PLTV/88888888/224/3221225893/1.m3u8
 J2,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/j2_twn/playlist.m3u8
 J5,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/j5_twn/playlist.m3u8
 明珠台,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/pearl_twn/playlist.m3u8
-TVB 星河,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/tvbxinhe_twn/playlist.m3u8
+翡翠台(备),http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/tvbxinhe_twn/playlist.m3u8
 TVB 星河台,http://315600.xyz/a/smart.php?playurl=http://198.16.64.170:8278/Xinhe/playlist.m3u8
 RHK 31,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/rhk31_twn/playlist.m3u8
 RHK 32,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/rhk32_twn/playlist.m3u8
