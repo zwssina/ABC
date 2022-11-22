@@ -1280,7 +1280,7 @@ Now Sports 英超,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnkr3MEtJ2WZvA
 寰宇新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnkkd8OeD3BLdZsnabiOKZuk/m3u8
 体育咪咕新,#genre#
 咪咕体育-4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
-抖音,https://pull-spe-l3.douyincdn.com/fantasy/stream-112002057447932598_spuhd.flv?_neptune_token=MIGoBAy6W2fsshiAp0_JQ5EEgYXLK4Eu6EFuIozhlrqnXGROTrxUH3GUg-wbEWKde57ZppgyzkrImnYSXaJ7FMvD7vehX9WkYCABTVIg3YDL9QFZIVVWZuovXBWplHH1j46_KkhqGEKx-_i4I_K6vuTTiMZpdTvatyGEOLUk5uHODBHauF0UQDiVRLbfxyJeVcxsh1GHBNmABBDiJfflXU19evGtfXyUlmKa&auth_key=1669117294-0-0-039754ce2178565d183a7d2bd43dd5de&abr_pts=-1800
+广州南国都市.1080P,https://justsometime.gztv.com/sec/shenghuos.m3u8
 英超1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 咪咕3,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
