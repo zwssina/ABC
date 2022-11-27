@@ -1282,6 +1282,8 @@ Now Sports 英超,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnkr3MEtJ2WZvA
 咪咕4K-HLG源-备用1,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 咪咕4K-HLG源-备用2,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕直播[4K50帧HDR],http://39.135.41.245/PLTV/88888888/224/3221226716/index.m3u8?
+咪咕直播[4K50帧HDR],http://39.135.42.201:80/000000001000/3000000010000005180/index.m3u8?
 4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 广州南国都市.1080P,https://justsometime.gztv.com/sec/shenghuos.m3u8
 抖音4K世界杯SDR源,http://mmmitv.top/test/douyin-x.php?id=rand
