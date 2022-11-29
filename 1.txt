@@ -464,9 +464,12 @@ imode時尚頻道[1920*1080][1920*1080],https://juyunlive.juyun.tv/live/24950198
 [HD]珠江@@5,https://epg.pm/stream/0c5dcf553a4ad1cfd78d09fec4b58e386d49469a7cd8487fc9a0c3d849d4f1f5.m3u8
 [SD]广东新闻高清,https://epg.pm/stream/2f957aa14be989ec2187c9dbe830894b0fa6f7ba885558ec81dd46c97ba5acf8.m3u8
 [SD]广东公共高清,https://epg.pm/stream/358b082e524cf114629b9f14a7e26db5c768c7ebb427c76d5191f8d665316543.m3u8
-广州综合代理,http://315600.xyz/jk/dl/df///gztv.php?id=zhonghe
-广州法制代理,http://315600.xyz/jk/dl/df///gztv.php?id=fazhi
-广州新闻代理,http://315600.xyz/jk/dl/df///gztv.php?id=xinwen
+广州综合代理,https://justsometime.gztv.com/sec/zhonghe.m3u8
+广州法制代理,https://justsometime.gztv.com/sec/fazhi.m3u8
+广州新闻代理,https://justsometime.gztv.com/sec/xinwen.m3u8
+广州竞赛代理,https://justsometime.gztv.com/sec/jingsai.m3u8
+广州影视代理,https://justsometime.gztv.com/sec/yingshi.m3u8
+广州南国都市代理,https://justsometime.gztv.com/sec/shenghuo.m3u8
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
