@@ -1023,6 +1023,7 @@ TVBS新闻tv,https://tv.puboat.com/live.m3u8?c=22
 星空卫视,http://116.205.130.205:66/6/gudtv.php?id=xingkong_1500
 MTV,http://116.205.130.205:66/6/gudtv.php?id=MTV_1500
 DOXTV,http://116.205.130.205:66/6/gudtv.php?id=DOXTV_1500
+澳亚卫视,http://116.205.130.205:66/6/gudtv.php?id=aoya_1500
 翡翠台HD,http://www.56ku.ml/gudou.php?id=1350_4500
 明珠台HD,http://www.56ku.ml/gudou.php?id=1351_4500
 广州综合标清,http://www.56ku.ml/gudou.php?id=guangzhou_1500
