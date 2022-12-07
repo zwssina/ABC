@@ -1171,15 +1171,23 @@ BBC Earth Lifestyle,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:82
 卫视电影,http://123.58.201.173:52411/test/lshotel.php?id=51
 AXN,http://123.58.201.173:52411/test/lshotel.php?id=56
 中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=40
-无线新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=7
-VIUTV,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=6
-开电视,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=5
-J2,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=9
-明珠台,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=10
-now sport,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=11
+HOY,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=6
+VIUTV,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=7
+HKS,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=5
+J2,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=10
+无线财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=9
+now sport,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=12
 无线财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=8
-now新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=12
-有线新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=18
+now新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=13
+now财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=14
+now直播,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=15
+有线新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=19
+明珠台,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=11
+RHK31,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=17
+RHK32,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=18
+有线18,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=21
+有线体育,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=22
+有线财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=23
 Discovery Asia1,vjms://14.102.154.164:8500/live/cid=440
 Nat Geo,vjms://14.102.154.164:8500/live/cid=115
 Nat Geo Wild,vjms://14.102.154.164:8500/live/cid=263
