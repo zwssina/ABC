@@ -512,6 +512,17 @@ imode時尚頻道[1920*1080][1920*1080],https://juyunlive.juyun.tv/live/24950198
 广东移动,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdyd
 岭南戏曲,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=lnxq
 广东国际,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdgj
+广东珠江,http://wabc.ml/gd.php?id=gdzj
+广东体育,http://wabc.ml/gd.php?id=gdty
+广东公共,http://wabc.ml/gd.php?id=gdgg
+广东新闻,http://wabc.ml/gd.php?id=gdxw
+广东影视,http://wabc.ml/gd.php?id=gdys
+广东少儿,http://wabc.ml/gd.php?id=gdse
+广东综艺,http://wabc.ml/gd.php?id=gdzy
+南方卫视,http://wabc.ml/gd.php?id=nfws
+广东移动,http://wabc.ml/gd.php?id=gdyd
+岭南戏曲,http://wabc.ml/gd.php?id=lnxq
+广东国际,http://wabc.ml/gd.php?id=gdgj
 港台IPTV,#genre#
 动物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 动物星球,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
