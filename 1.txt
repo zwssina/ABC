@@ -958,21 +958,17 @@ ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
 广东移动,http://cindy520.f3322.net:5146/udp/239.77.0.20:5146
 岭南戏曲,http://cindy520.f3322.net:5146/udp/239.77.0.16:5146
 港台测试,#genre#
-翡翠台,https://t6.iptv200.com/live/tvb/index.m3u8?session=xc1ovbk1yogn7i9ysxsfvh8ehigujbh0
-无线新闻,https://t15.iptv200.com/live/inews/index.m3u8?session=fy1w586j78rm1t9bk289nz4w9v4cirn0
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 翡翠华丽,http://23.237.10.66:16410
 无线新闻,http://23.237.10.66:16110
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-TVB翡翠HD,https://cdn.hklive.tv/xxxx/81/index.m3u8
-TVB J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
-TVB無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
-TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
-TVB無綫財經,https://cdn.hklive.tv/xxxx/85/index.m3u8
-香港开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8
-VIU,https://cdn.hklive.tv/xxxx/96/index.m3u8
+TVB翡翠地波HD,https://cdn.hklive.tv/xxxx/81/index.m3u8
+TVB J2台地波,https://cdn.hklive.tv/xxxx/82/index.m3u8
+TVB無綫新聞地波,https://cdn.hklive.tv/xxxx/83/index.m3u8
+TVB明珠台地波,https://cdn.hklive.tv/xxxx/84/index.m3u8
+TVB無綫財經地波,https://cdn.hklive.tv/xxxx/85/index.m3u8
+香港开电视地波,https://cdn.hklive.tv/xxxx/77/index.m3u8
+VIU,https地波://cdn.hklive.tv/xxxx/96/index.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 凤凰中文,http://home.111818.xyz:8888/udp/239.76.253.134:9000
 凤凰资讯,http://home.111818.xyz:8888/udp/239.76.253.135:9000
