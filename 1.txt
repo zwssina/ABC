@@ -1281,69 +1281,75 @@ EYE TV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-hstv,#genre#
-翡翠台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnpvNkGHagBCL9yhAZuDA01E/m3u8
-明珠台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnoJdOu73-78WjAb2R79ZiLQ/m3u8
-无线新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnpL4EGIOY8vRLbCiFBPi1os/m3u8
-有线新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgntVRxXvWi0Buu1XhVxycKa0/m3u8
-NOW新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnknm8hqkXxLFiem1FJNmKOE/m3u8
-Viutv,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnkbbBc_dz1gqoHVW-ddvZo8/m3u8
-Viutv 6,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgng2EqrTCytsysTBqez3mKb0/m3u8
-无线财经体育资讯台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnntHc2Fw5hJGIukoRJW5lP8/m3u8
-有线财经,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnnDg9ihhHIsGGuAVjRIGz2E/m3u8
-J 2,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnohCgcqoU6KrwefXEncMx80/m3u8
-Super 18,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnpLfjmTVhmGOYhVin4QX4yE/m3u8
-有线603,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnodzBGMKFGzbwsYlIdpY6Hw/m3u8
-有线18台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnjVBQu5pefdkKCoKObWrNJs/m3u8
-有线体育,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnm9IXX2QO8buy5p1P1so3aA/m3u8
-港台31,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnka8UxU3AF3S7333qWPuUVg/m3u8
-港台32,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnn00JZC5YXh0CWuT5ogy91k/m3u8
-开电视,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnsChpux4TL33RRH5cpP4b1c/m3u8
-华丽台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnupbq9SxsKCfLwGY8cpwH2w/m3u8
-有线603,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnnPg-wC8lIlVg9AFHi_pMws/m3u8
-有线电影,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnoBCZl8Iw8W49gtzBHHHUNY/m3u8
-有线综合娱乐,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnqmJRHpMf-JNg-uJdgQYGdo/m3u8
-有线财经台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnhnVFU_pxoIm01XMR1aitns/m3u8
-有线直播,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgng6EwjQE1sOT9YrMVktsfKI/m3u8
-TVB经典台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnog6iWJ1ZVOa1Ad7_6MjWRM/m3u8
-TVB 星河,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnjTxxdnL8b0OiX4yoj5uX-8/m3u8
-天映频道,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgngc0BlXnbb8h1INOcRmrk40/m3u8
-星卫电影台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgngzbOPIA4rUanZ4liOxQFyI/m3u8
-TW-美亚电影,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrFSCBofpG2b9sP5tYY0vII/m3u8
-HK-美亚电影“粤”,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgngXi1bO9VN7486uon6xF-5A/m3u8
-HK美亚电影“普”,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrWJQrhEJW_kkw-JkIXdhik/m3u8
-TVB亚洲剧台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrTaO3DiDhr33hH2s_F3LmQ/m3u8
-TVB 千禧經典台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmzOxzx1Nn0oehtuMCuw02k/m3u8
-TVB功夫,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnvUyIYt8M_vBy9m8nB87rtM/m3u8
-TVB 粤语片台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnt_z4V757onBPwyU20wlteQ/m3u8
-TVB 华语剧台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnhKYCzSzBX5EJi2wR08kyAY/m3u8
-TVB 娱乐新闻台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnq61JsMdbJVIPokd8qIYLgk/m3u8
-TVB 星河,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmwBlGWVCMQ-MvXwLSmay20/
-爆谷台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnk993aNKtF2yJuLec6jVg5I/m3u8
-Now星影台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnsEku2cJGqJAsACwVtnrFKc/m3u8
-Now爆谷台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnlAsfGNoVS-lXMN-r_XTi1w/m3u8
-Now财经台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnn-BKf2tYxg6ZeIx_vd2Rn0/m3u8
-Now直播台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnu-peFBV-7B9L4LitIZpRzY/m3u8
-Now剧集台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnsPZbswKTVzBma4Iteq3G8M/m3u8
-Now华剧台,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnhod3VeC12FUT7mGf6o1Td4/m3u8
-NowJelli紫金,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrNbaZGElikyw4VArZVykJU/m3u8
-NowHBO Hits,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnrnEkKZjmVTVaGcBT0Ejii0/m3u8
-NowHBO Signature,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnlaKsIQV4HFBxvYyv23V_ac/m3u8
-Now TV HBO,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnlPazZGzJJum314_mDcMtXc/m3u8
-NowSports 1,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnrs6T3ik2Me3k2sShTuXUEY/m3u8
-NowSports 2,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnvbuEotKc59jP2ryi5XE9eY/m3u8
-NowSports 3,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnv8PCfa20pL8bqYEUIwLXRY/m3u8
-NowSports 4,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgntmO7w7KZAYwplJ8YrvaVeY/m3u8
-NowSports 5,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmhvZHSdRs9GbrpSnuiQ_kw/m3u8
-NowSports 6,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnnevF9ZXWJFlemYKABm8jSU/m3u8
-NowSports 7,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmEXryMw_0wo0tdHk_ND6-A/m3u8
-Now Sports 英超,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnkr3MEtJ2WZvAkW42-BMyfQ/m3u8
-国家地理,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnhTtYfLrxb4SEyyn9529TZg/m3u8
-国家地理野生,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnv-nkbjXelRDTFonQuRlFjU/m3u8
-动物星球,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnobXTB1h2CEZklpnT_YN7Us/m3u8
-中天新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgngRLcPtM6l2gqdX3D5nbXKE/m3u8
-东森新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387XgnmGM2YorhW2BSw6dwQGn57E/m3u8
-寰宇新闻,http://hk.crtv.store:80/play/vRn2JNiW1uQpDQG387Xgnkkd8OeD3BLdZsnabiOKZuk/m3u8
+蜀小果,#genre#
+CCTV1,http://wabc.ml/sxg.php?id=CCTV-1H265_4000
+CCTV2,http://wabc.ml/sxg.php?id=CCTV-2H265_4000
+CCTV3,http://wabc.ml/sxg.php?id=CCTV-3H265_4000
+CCTV4,http://wabc.ml/sxg.php?id=CCTV-4H265_4000
+CCTV5,http://wabc.ml/sxg.php?id=CCTV-5H265_4000
+CCTV5+,http://wabc.ml/sxg.php?id=CCTV-5plusH265_4000
+CCTV6,http://wabc.ml/sxg.php?id=CCTV-6H265_4000
+CCTV7,http://wabc.ml/sxg.php?id=CCTV-7H265_4000
+CCTV8,http://wabc.ml/sxg.php?id=CCTV-8H265_4000
+CCTV9,http://wabc.ml/sxg.php?id=CCTV-9H265_4000
+CCTV10,http://wabc.ml/sxg.php?id=CCTV-10H265_4000
+CCTV11,http://wabc.ml/sxg.php?id=CCTV-11-H265_4000
+CCTV12,http://wabc.ml/sxg.php?id=CCTV-12H265_4000
+CCTV13,http://wabc.ml/sxg.php?id=CCTV-xw_4000
+CCTV14,http://wabc.ml/sxg.php?id=CCTV-14H265_4000
+CCTV15,http://wabc.ml/sxg.php?id=CCTV-15-yyH265_4000
+CCTV17,http://wabc.ml/sxg.php?id=CCTV-17_4000
+CHC家庭电影,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
+CHC动作电影,http://wabc.ml/sxg.php?id=gef.wqCHCdzdyH265_4000
+CHC高请电影,http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
+4K超高清电影,http://wabc.ml/sxg.php?id=emdy4k_8000
+江苏卫视,http://wabc.ml/sxg.php?id=jswsH265_4000
+北京卫视,http://wabc.ml/sxg.php?id=bjwsH265_4000
+东方卫视,http://wabc.ml/sxg.php?id=dfwsH265_4000
+湖南卫视,http://wabc.ml/sxg.php?id=hnwsH265_4000
+浙江卫视,http://wabc.ml/sxg.php?id=zjwsH265_4000
+广东卫视,http://wabc.ml/sxg.php?id=gdwsH265_4000
+江西卫视,http://wabc.ml/sxg.php?id=jxwsH265_4000
+湖北卫视,http://wabc.ml/sxg.php?id=hbwsH265_4000
+重庆卫视,http://wabc.ml/sxg.php?id=cqwsH265_4000
+安徽卫视,http://wabc.ml/sxg.php?id=ahwsH265_4000
+东南卫视,http://wabc.ml/sxg.php?id=dnwsfjwsH265_4000
+山东卫视,http://wabc.ml/sxg.php?id=sdwsH265_4000
+深圳卫视,http://wabc.ml/sxg.php?id=szwsH265_4000
+天津卫视,http://wabc.ml/sxg.php?id=tjwsH265_4000
+贵州卫视,http://wabc.ml/sxg.php?id=gzwsH265_4000
+吉林卫视,http://wabc.ml/sxg.php?id=jlwsH265_4000
+黑龙江卫视,http://wabc.ml/sxg.php?id=hljwsH265_4000
+四川卫视,http://wabc.ml/sxg.php?id=scwsH265_4000
+CCTV风云音乐,http://wabc.ml/sxg.php?id=fyyy_4000
+CCTV女性时尚,http://wabc.ml/sxg.php?id=nxss_4000
+CCTV兵器科教,http://wabc.ml/sxg.php?id=bqkj_4000
+CCTV世界地理,http://wabc.ml/sxg.php?id=sjdl_4000
+CCTV世界地理,http://wabc.ml/sxg.php?id=yscq4kH265_4000
+甘肃卫视,http://wabc.ml/sxg.php?id=gsws_4000
+云南卫视,http://wabc.ml/sxg.php?id=ynws_4000
+广西卫视,http://wabc.ml/sxg.php?id=gxws_4000
+河南卫视,http://wabc.ml/sxg.php?id=hnws35_4000
+陕西卫视,http://wabc.ml/sxg.php?id=sxws_4000
+山西卫视,http://wabc.ml/sxg.php?id=sxws42_4000
+内蒙古卫视,http://wabc.ml/sxg.php?id=nmgws_4000
+风云音乐HD,http://wabc.ml/sxg.php?id=fyyy_4000
+河南卫视,http://wabc.ml/sxg.php?id=hnws_4000
+四海钓鱼,http://wabc.ml/sxg.php?id=shdy_4000
+国防军事,http://wabc.ml/sxg.php?id=gfjs_4000
+世界地理,http://wabc.ml/sxg.php?id=sjdl_4000
+摄影,http://wabc.ml/sxg.php?id=sy_4000
+早期教育,http://wabc.ml/sxg.php?id=zqjy_4000
+CETV4,http://wabc.ml/sxg.php?id=zhms_4000
+家庭理*,http://wabc.ml/sxg.php?id=jtlcH264_4000
+CETV1,http://wabc.ml/sxg.php?id=CETV-1H264_4000
+快乐垂钓,http://wabc.ml/sxg.php?id=fyzqklcdHDH265_4000
+都市剧场,http://wabc.ml/sxg.php?id=yxfydsjcHDH265_4000
+新视觉,http://wabc.ml/sxg.php?id=ycxsjH265_4000
+生活时尚,http://wabc.ml/sxg.php?id=shssH265_4000
+全纪实,http://wabc.ml/sxg.php?id=qjs-HDH265_4000
+SCTV-7hd,http://wabc.ml/sxg.php?id=SCTV-7-_4000
+峨眉电影hd,http://wabc.ml/sxg.php?id=emdygqH265_4000
 体育咪咕新,#genre#
 now体育,http://us1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=24cce35b06aecc51433333
 广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
