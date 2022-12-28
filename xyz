@@ -1215,9 +1215,9 @@ CCTV16,http://39.134.65.181:80/PLTV/88888888/224/3221225893/1.m3u8
 湖南卫视,http://39.134.65.181:80/PLTV/88888888/224/3221225506/1.m3u8
 超级电视剧1,http://39.134.65.181:80/PLTV/88888888/224/3221225637/1.m3u8
 大佬代理,#genre#
-翡翠台(备),http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/jade_twn/playlist.m3u8
-翡翠台(备),http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/tvbxinhe_twn/playlist.m3u8
-无线新闻smt,http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/inews_twn/playlist.m3u8
+翡翠台(备),http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/jade_twn/playlist.m3u8
+翡翠台(备),http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/tvbxinhe_twn/playlist.m3u8
+无线新闻smt,http://315600.xyz/a/ssmt.php?playurl=http://50.7.220.74:8278/inews_twn/playlist.m3u8
 無線財經,http://315600.xyz/nma.php?id=e9789691-2c43-4ab7-9acc-ea5655673352
 無線新聞,http://315600.xyz/nma.php?id=97af0048-2628-4afe-ac5c-8bcf7b44e2cb
 無線新聞,http://315600.xyz/nma.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
