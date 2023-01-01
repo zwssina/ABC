@@ -458,12 +458,6 @@ imode時尚頻道[1920*1080][1920*1080],https://juyunlive.juyun.tv/live/24950198
 东南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
 东南卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u
 广东本地,#genre#
-[HD]广东体育,https://epg.pm/stream/561c81df0f76995348fe0520e4a62e07f595033118c772b19597d81dafeee003.m3u8
-[BD]广东体育@@1,https://epg.pm/stream/fb4b50efd5ebb99d0e14012b038c2a6a9242acabce89ecce2f562f38a09237f5.m3u8
-[HD]广东珠江,https://epg.pm/stream/2315966b5a101566281132c779618a158aa34f7467a531adb05e2b33661a6cb4.m3u8
-[HD]珠江@@5,https://epg.pm/stream/0c5dcf553a4ad1cfd78d09fec4b58e386d49469a7cd8487fc9a0c3d849d4f1f5.m3u8
-[SD]广东新闻高清,https://epg.pm/stream/2f957aa14be989ec2187c9dbe830894b0fa6f7ba885558ec81dd46c97ba5acf8.m3u8
-[SD]广东公共高清,https://epg.pm/stream/358b082e524cf114629b9f14a7e26db5c768c7ebb427c76d5191f8d665316543.m3u8
 广州综合代理,https://justsometime.gztv.com/sec/zhonghe.m3u8
 广州法制代理,https://justsometime.gztv.com/sec/fazhi.m3u8
 广州新闻代理,https://justsometime.gztv.com/sec/xinwen.m3u8
