@@ -1085,6 +1085,11 @@ ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
 广东综艺,http://cindy520.f3322.net:5146/udp/239.77.0.244:5146
 广东移动,http://cindy520.f3322.net:5146/udp/239.77.0.20:5146
 岭南戏曲,http://cindy520.f3322.net:5146/udp/239.77.0.16:5146
+广州综合频道,http://124.222.238.146:1125/m3u8.php?/GZTV/zhonghe/playlist.m3u8
+广州法治频道,http://124.222.238.146:1125/m3u8.php?/GZTV/fazhi/playlist.m3u8
+广州竞赛频道,http://124.222.238.146:1125/m3u8.php?/GZTV/jingsai/playlist.m3u8
+广州影视频道,http://124.222.238.146:1125/m3u8.php?/GZTV/yingshi/playlist.m3u8
+广州南国都市(4K),http://124.222.238.146:1125/m3u8.php?/GZTV/shenghuo/playlist.m3u8
 港台测试,#genre#
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 翡翠台,http://23.237.10.66:16106
