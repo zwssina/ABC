@@ -1443,6 +1443,10 @@ SCTV-7hd,http://wabc.ml/sxg.php?id=SCTV-7-_4000
 大湾区卫视,http://183.63.15.42:9901/tsfile/live/1016_1.m3u8
 广东影视,http://183.63.15.42:9901/tsfile/live/1017_1.m3u8
 广东少儿,http://183.63.15.42:9901/tsfile/live/1018_1.m3u8
+广东珠江标清,http://27.47.71.0:8088/hls/17/index.m3u8
+广东公共标清,http://27.47.71.0:8088/hls/29/index.m3u8
+广东新闻标清,http://27.47.71.0:8088/hls/30/index.m3u8
+大湾区卫视标清,http://27.47.71.0:8088/hls/26/index.m3u8
 _6,#genre#
 玩家频道,https://315600.xyz/hatv.php?id=401
 HAPPY,https://315600.xyz/hatv.php?id=402
