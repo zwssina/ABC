@@ -1299,33 +1299,21 @@ TVB经典,http://315600.xyz/nma.php?id=519d0628-c56d-47af-a860-b764a411bd91
 TVB明珠,http://315600.xyz/nma.php?id=ac6803d0-ef17-4454-aaef-bb8221de43ff
 TVB明珠,http://315600.xyz/nma.php?id=e23f6359-99ea-43ad-8bd3-41dbf3ed4b20
 TVB星河(粵),http://315600.xyz/nma.php?id=4a5b6deb-4f68-4ed6-aa72-50299e6ed5f4
-大卫代理,#genre#
-好莱坞电影,http://123.58.201.173:52411/test/lshotel.php?id=52
-动物星球,http://123.58.201.173:52411/test/lshotel.php?id=12
-卫视中文,http://123.58.201.173:52411/test/lshotel.php?id=23
-东风37,http://123.58.201.173:52411/test/lshotel.php?id=28
-东森新闻,http://123.58.201.173:52411/test/lshotel.php?id=39
-壹新闻,http://123.58.201.173:52411/test/lshotel.php?id=47
-卫视电影,http://123.58.201.173:52411/test/lshotel.php?id=51
-AXN,http://123.58.201.173:52411/test/lshotel.php?id=56
-中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=40
-HOY,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=6
-VIUTV,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=7
-HKS,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=5
-J2,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=10
-无线财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=9
-now sport,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=12
-无线财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=8
-now新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=13
-now财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=14
-now直播,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=15
-有线新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=19
-明珠台,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=11
-RHK31,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=17
-RHK32,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=18
-有线18,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=21
-有线体育,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=22
-有线财经,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=23
+192,#genre#
+[HK]翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+[HK]无线新闻台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+[HK]翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+[HK]J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+[HK]RTHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+[HK]VIUTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+[TW]BabyTV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
+[HK]VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+[TW]TVB星河,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+[TW]CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+[TW]CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+[TW]ELEVEN2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+[TW]ELEVEN1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+[TW]动物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 Discovery Asia1,vjms://14.102.154.164:8500/live/cid=440
 Nat Geo,vjms://14.102.154.164:8500/live/cid=115
 Nat Geo Wild,vjms://14.102.154.164:8500/live/cid=263
