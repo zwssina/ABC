@@ -464,6 +464,12 @@ imode時尚頻道[1920*1080][1920*1080],https://juyunlive.juyun.tv/live/24950198
 广州竞赛代理,https://justsometime.gztv.com/sec/jingsai.m3u8
 广州影视代理,https://justsometime.gztv.com/sec/yingshi.m3u8
 广州南国都市代理,https://justsometime.gztv.com/sec/shenghuos.m3u8
+广州综合,http://iptv.cooltv.top/tv/guangzhou.php?id=gzzh 
+广州法治,http://iptv.cooltv.top/tv/guangzhou.php?id=gzfz 
+广州影视,http://iptv.cooltv.top/tv/guangzhou.php?id=gzys 
+广州新闻,http://iptv.cooltv.top/tv/guangzhou.php?id=gzxw 
+广州竞赛,http://iptv.cooltv.top/tv/guangzhou.php?id=gzjs 
+广州南国都市,http://iptv.cooltv.top/tv/guangzhou.php?id=gzsh
 广东卫视[1024*576],http://61.143.45.150:9901/tsfile/live/0017_1.m3u8
 广东珠江[1024*576],http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 广东新闻[1024*576],http://61.143.45.150:9901/tsfile/live/0019_1.m3u8
@@ -1299,7 +1305,7 @@ TVB经典,http://315600.xyz/nma.php?id=519d0628-c56d-47af-a860-b764a411bd91
 TVB明珠,http://315600.xyz/nma.php?id=ac6803d0-ef17-4454-aaef-bb8221de43ff
 TVB明珠,http://315600.xyz/nma.php?id=e23f6359-99ea-43ad-8bd3-41dbf3ed4b20
 TVB星河(粵),http://315600.xyz/nma.php?id=4a5b6deb-4f68-4ed6-aa72-50299e6ed5f4
-192,#genre#
+198,#genre#
 [HK]翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 [HK]无线新闻台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 [HK]翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
