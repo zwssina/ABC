@@ -1276,30 +1276,20 @@ inew,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-动物星球,https://315600.xyz/hatv2023.php?id=12
-国家地理,https://315600.xyz/hatv2023.php?id=18
-Discovery,https://315600.xyz/hatv2023.php?id=19
-亚洲旅游,https://315600.xyz/hatv2023.php?id=172
-Discovery Asia,https://315600.xyz/hatv2023.php?id=200
-Discovery科学频道,https://315600.xyz/hatv2023.php?id=201
-卫视电影,https://315600.xyz/hatv2023.php?id=61
-东森电影,https://315600.xyz/hatv2023.php?id=62
-纬来电影,https://315600.xyz/hatv2023.php?id=63
-东森洋片,https://315600.xyz/hatv2023.php?id=66
-好莱坞电影,https://315600.xyz/hatv2023.php?id=68
-FOX MOVIES,https://315600.xyz/hatv2023.php?id=69
-CINEMAX,https://315600.xyz/hatv2023.php?id=71
-HBO HD,https://315600.xyz/hatv2023.php?id=220
-HBO 原创巨献,https://315600.xyz/hatv2023.php?id=221
-HBO 温馨家庭,https://315600.xyz/hatv2023.php?id=222
-HBO 强档巨献,https://315600.xyz/hatv2023.php?id=223
-ELEVEN SPORTS 1,https://315600.xyz/hatv2023.php?id=75
-寰宇新闻,https://315600.xyz/hatv2023.php?id=163
-一电视新闻,https://315600.xyz/hatv2023.php?id=49
-年代新闻,https://315600.xyz/hatv2023.php?id=50
-东森新闻,https://315600.xyz/hatv2023.php?id=51
-中天新闻,https://315600.xyz/hatv2023.php?id=52
-TVBS新闻,https://315600.xyz/hatv2023.php?id=55
+TVBS新闻HD,http://158.101.151.82:9000/jmsytb.m3u8?c=3
+TVBS新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=4
+东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=2
+中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
+中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
+三立新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=9
+英语,http://158.101.151.82:9000/jmsytb.m3u8?c=15
+寰宇新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+Inews,http://158.101.151.82:9000/jmsytb.m3u8?c=16
+DW,http://158.101.151.82:9000/jmsytb.m3u8?c=17
+MNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=19
+GMT,http://158.101.151.82:9000/jmsytb.m3u8?c=18
+NASA,http://158.101.151.82:9000/jmsytb.m3u8?c=20
+NEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=23
 蜀小果,#genre#
 CCTV1,http://wabc.ml/sxg.php?id=CCTV-1H265_4000
 CCTV2,http://wabc.ml/sxg.php?id=CCTV-2H265_4000
